@@ -1,5 +1,6 @@
+
 body{
-background-color:red;
+background-color:white;
 }
 img{
 height: 20vh;
@@ -15,12 +16,29 @@ height:50vh;
 
 .evilSide{
 height:50vh;
-
+h1 color:red;
+background:black;
 }
 
 .robotSide{
 height:50vh;
-
+h1 color:black;
+background:red;
+}
+.one_thirdscreen{
+height:50vh;
 }
 
+.this{
+height:50vh;
+background:green;
+}
+.is{
+height:50vh;
+background:yellow;
+}
+.hard{
+height:50vh;
+background:grey;
+}
 
